@@ -2,7 +2,7 @@
 
 ```bash
 # Clone git repo
-git clone https://github.com/yourusername/my-node-app.git
+git clone https://github.com/Jamie-Fowler/payment_processing.git
 
 # Install dependencies inside folder
 npm install
