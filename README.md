@@ -1,6 +1,15 @@
 # Payment Processing Node App
 
-Run with `node app.js` after install node_modules not included in git repo.
+```bash
+# Clone git repo
+git clone https://github.com/yourusername/my-node-app.git
+
+# Install dependencies inside folder
+npm install
+
+# Start the Application
+npm start
+```
 
 ## Models
 
